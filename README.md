@@ -1,2 +1,2 @@
-# speckle-projection
-Using visible-light speckle projection for enhanced disparity and depth estimation.
+# Visible-light Speckle Projection
+Active stereo depth estimation using speckle projection, with sequential pattern/no-pattern capture for decoupled geometry and colour reconstruction.
